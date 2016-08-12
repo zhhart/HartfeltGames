@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":819,"scrollY":461},
-{"id":2,"expanded":false,"name":"ForestMap","order":2,"parentId":1,"scrollX":819,"scrollY":461}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":817,"scrollY":461},
+null,
+{"id":3,"expanded":false,"name":"ForestMap","order":2,"parentId":0,"scrollX":817,"scrollY":461}
 ]
