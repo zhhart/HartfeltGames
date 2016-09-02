@@ -11,6 +11,8 @@ null,
 {"id":9,"expanded":false,"name":"Ridley's House Floor 2 Hallway","order":8,"parentId":6,"scrollX":817,"scrollY":466},
 {"id":10,"expanded":false,"name":"Ridley's Room","order":9,"parentId":6,"scrollX":817,"scrollY":466},
 {"id":11,"expanded":false,"name":"Ostea","order":11,"parentId":0,"scrollX":1201,"scrollY":458},
-{"id":12,"expanded":true,"name":"Nyxian Border","order":12,"parentId":0,"scrollX":809,"scrollY":458},
-{"id":13,"expanded":false,"name":"Nyx","order":13,"parentId":12,"scrollX":811,"scrollY":1702}
+{"id":12,"expanded":true,"name":"Nyxian Border","order":12,"parentId":0,"scrollX":1349,"scrollY":742},
+{"id":13,"expanded":false,"name":"Nyx","order":13,"parentId":12,"scrollX":811,"scrollY":1702},
+{"id":14,"expanded":true,"name":"Valerius Outskirts","order":14,"parentId":0,"scrollX":811,"scrollY":742},
+{"id":15,"expanded":false,"name":"Valerius","order":15,"parentId":14,"scrollX":811,"scrollY":602}
 ]
