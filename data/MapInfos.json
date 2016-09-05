@@ -6,7 +6,7 @@ null,
 {"id":4,"expanded":false,"name":"Forest 2","order":2,"parentId":0,"scrollX":441,"scrollY":461.5},
 {"id":5,"expanded":false,"name":"1080p Test Map","order":4,"parentId":0,"scrollX":441,"scrollY":461.5},
 {"id":6,"expanded":false,"name":"Lyton","order":5,"parentId":0,"scrollX":1959,"scrollY":723.5},
-{"id":7,"expanded":false,"name":"NE Forest","order":29,"parentId":29,"scrollX":1287,"scrollY":1538.5},
+{"id":7,"expanded":false,"name":"NE Forest","order":29,"parentId":29,"scrollX":1941.5,"scrollY":1433.5},
 {"id":8,"expanded":false,"name":"Ridley's House Floor 1","order":6,"parentId":6,"scrollX":817,"scrollY":466},
 {"id":9,"expanded":false,"name":"Ridley's House Floor 2 Hallway","order":7,"parentId":6,"scrollX":817,"scrollY":466},
 {"id":10,"expanded":false,"name":"Ridley's Room","order":8,"parentId":6,"scrollX":817,"scrollY":466},
@@ -27,6 +27,6 @@ null,
 {"id":25,"expanded":false,"name":"Valerian Armor Shop","order":23,"parentId":14,"scrollX":832,"scrollY":640},
 {"id":26,"expanded":false,"name":"Valerian Weapon Shop","order":24,"parentId":14,"scrollX":832,"scrollY":640},
 {"id":27,"expanded":false,"name":"Valerian Item Shop","order":25,"parentId":14,"scrollX":819,"scrollY":466},
-{"id":28,"expanded":true,"name":"Forest Hub","order":27,"parentId":0,"scrollX":1007,"scrollY":453.5},
-{"id":29,"expanded":false,"name":"N Forest","order":28,"parentId":28,"scrollX":433,"scrollY":453.5}
+{"id":28,"expanded":true,"name":"Forest Hub","order":27,"parentId":0,"scrollX":1007.5,"scrollY":453.5},
+{"id":29,"expanded":true,"name":"N Forest","order":28,"parentId":28,"scrollX":445.5,"scrollY":506.5}
 ]
