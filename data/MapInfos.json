@@ -32,5 +32,9 @@ null,
 {"id":30,"expanded":true,"name":"NN Forest (Volcano base/Entrance to final route)","order":31,"parentId":29,"scrollX":1109,"scrollY":458},
 {"id":31,"expanded":false,"name":"Volcano Summit","order":32,"parentId":0,"scrollX":811,"scrollY":466},
 {"id":32,"expanded":false,"name":"Secret Cave","order":30,"parentId":7,"scrollX":819,"scrollY":466},
-{"id":33,"expanded":false,"name":"Snowy Path (Final Route)","order":33,"parentId":0,"scrollX":811,"scrollY":466}
+{"id":33,"expanded":true,"name":"Snowy Path","order":33,"parentId":0,"scrollX":811,"scrollY":461},
+{"id":34,"expanded":false,"name":"Snowy Path (Ivani Meeting Area)","order":34,"parentId":33,"scrollX":811,"scrollY":461},
+{"id":35,"expanded":true,"name":"Snowy Hillside Cave Entrance","order":35,"parentId":33,"scrollX":811,"scrollY":979},
+{"id":36,"expanded":false,"name":"Cave (FINAL CHOICE BRANCH)","order":36,"parentId":35,"scrollX":811,"scrollY":835},
+{"id":37,"expanded":false,"name":"Summit","order":37,"parentId":33,"scrollX":811,"scrollY":739}
 ]
