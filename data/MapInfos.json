@@ -1,14 +1,14 @@
 [
 null,
 {"id":1,"expanded":true,"name":"Volcano","order":1,"parentId":0,"scrollX":817,"scrollY":466},
-{"id":2,"expanded":false,"name":"Test Map","order":3,"parentId":0,"scrollX":817,"scrollY":466},
+{"id":2,"expanded":false,"name":"Test Map","order":3,"parentId":0,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819},
 {"id":3,"expanded":false,"name":"Forest 1","order":9,"parentId":0,"scrollX":809,"scrollY":1021},
-{"id":4,"expanded":false,"name":"Forest 2","order":2,"parentId":0,"scrollX":817,"scrollY":466},
+{"id":4,"expanded":false,"name":"Forest 2","order":2,"parentId":0,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819},
 {"id":5,"expanded":false,"name":"1080p Test Map","order":4,"parentId":0,"scrollX":817,"scrollY":466},
-{"id":6,"expanded":true,"name":"Lyton","order":5,"parentId":0,"scrollX":1485,"scrollY":458},
+{"id":6,"expanded":true,"name":"Lyton","order":5,"parentId":0,"scrollX":1782.5454545454545,"scrollY":988.3636363636364},
 {"id":7,"expanded":true,"name":"NE Forest (Starting Forest/Secret Cave Entrance)","order":29,"parentId":29,"scrollX":1895,"scrollY":1242},
-{"id":8,"expanded":false,"name":"Ridley's House Floor 1","order":6,"parentId":6,"scrollX":819,"scrollY":466},
-{"id":9,"expanded":false,"name":"Ridley's House Floor 2 Hallway","order":7,"parentId":6,"scrollX":819,"scrollY":466},
+{"id":8,"expanded":false,"name":"Ridley's House Floor 1","order":6,"parentId":6,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819},
+{"id":9,"expanded":false,"name":"Ridley's House Floor 2 Hallway","order":7,"parentId":6,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819},
 {"id":10,"expanded":false,"name":"Ridley's Room","order":8,"parentId":6,"scrollX":819,"scrollY":466},
 {"id":11,"expanded":false,"name":"Ostea","order":26,"parentId":0,"scrollX":1085,"scrollY":458},
 {"id":12,"expanded":false,"name":"Nyxian Border","order":10,"parentId":0,"scrollX":885,"scrollY":742},
@@ -37,5 +37,5 @@ null,
 {"id":35,"expanded":true,"name":"Snowy Hillside Cave Entrance","order":36,"parentId":33,"scrollX":811,"scrollY":979},
 {"id":36,"expanded":false,"name":"Cave (FINAL CHOICE BRANCH)","order":37,"parentId":35,"scrollX":811,"scrollY":835},
 {"id":37,"expanded":false,"name":"Summit","order":38,"parentId":33,"scrollX":811,"scrollY":739},
-{"id":38,"expanded":false,"name":"E Forest Path (Dungeon 1)","order":32,"parentId":28,"scrollX":1349,"scrollY":453}
+{"id":38,"expanded":false,"name":"E Forest Path (Dungeon 1)","order":32,"parentId":28,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819}
 ]
