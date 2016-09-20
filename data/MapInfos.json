@@ -38,6 +38,6 @@ null,
 {"id":36,"expanded":false,"name":"Cave (FINAL CHOICE BRANCH)","order":39,"parentId":35,"scrollX":811,"scrollY":835},
 {"id":37,"expanded":false,"name":"Summit","order":40,"parentId":33,"scrollX":811,"scrollY":739},
 {"id":38,"expanded":false,"name":"E Forest Path (Dungeon 1)","order":34,"parentId":28,"scrollX":1782.5454545454545,"scrollY":1005.8181818181819},
-{"id":39,"expanded":true,"name":"Lyton Inn","order":9,"parentId":6,"scrollX":832,"scrollY":640},
+{"id":39,"expanded":true,"name":"Lyton Inn","order":9,"parentId":6,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":40,"expanded":false,"name":"Lyton Inn 2nd Fl","order":10,"parentId":39,"scrollX":929.1428571428571,"scrollY":522.8571428571428}
 ]
