@@ -42,5 +42,5 @@ null,
 {"id":40,"expanded":false,"name":"Lyton Inn 2nd Fl","order":10,"parentId":39,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":41,"expanded":false,"name":"Lyton Pub","order":11,"parentId":6,"scrollX":929.1428571428571,"scrollY":522.8571428571428},
 {"id":42,"expanded":false,"name":"Lyton Eatery","order":12,"parentId":6,"scrollX":1092,"scrollY":614.6666666666666},
-{"id":43,"expanded":false,"name":"E Forest Path (Dungeon 1)","order":37,"parentId":38,"scrollX":1484,"scrollY":907}
+{"id":43,"expanded":false,"name":"E Forest Path (Dungeon 1)","order":37,"parentId":38,"scrollX":1638,"scrollY":907}
 ]
