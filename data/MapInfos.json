@@ -47,8 +47,13 @@ null,
 {"id":45,"expanded":false,"name":"East","order":16,"parentId":44,"scrollX":728,"scrollY":866.6666666666666},
 {"id":46,"expanded":true,"name":"North","order":17,"parentId":44,"scrollX":1424,"scrollY":1128},
 {"id":47,"expanded":false,"name":"0. Test Maps","order":1,"parentId":0,"scrollX":1084,"scrollY":610},
+<<<<<<< HEAD
 {"id":48,"expanded":false,"name":"5. Mid-Forest Inn","order":27,"parentId":0,"scrollX":813,"scrollY":457.5},
 {"id":49,"expanded":false,"name":"Library","order":34,"parentId":13,"scrollX":776,"scrollY":804},
+=======
+{"id":48,"expanded":false,"name":"5. Mid-Forest Inn","order":27,"parentId":0,"scrollX":819,"scrollY":521},
+{"id":49,"expanded":false,"name":"Library","order":34,"parentId":13,"scrollX":801,"scrollY":742.5},
+>>>>>>> origin/master
 {"id":50,"expanded":false,"name":"8. ***Valerius Forest Inn","order":37,"parentId":0,"scrollX":1084,"scrollY":610},
 {"id":51,"expanded":true,"name":"Sophia's Lab","order":35,"parentId":13,"scrollX":813,"scrollY":457.5},
 {"id":52,"expanded":false,"name":"Mom's Room","order":36,"parentId":51,"scrollX":722.6666666666666,"scrollY":406.6666666666667}
